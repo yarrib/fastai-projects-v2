@@ -1,0 +1,27 @@
+
+# exlude environment variables
+*.env
+
+# ignore any vscode files
+*.__pycache__
+
+# ignore any compiled python files
+*.pyc
+
+# don't upload image files
+*.jpg
+*.png
+*.jpeg
+*.JPG
+*.tif
+*.tiff
+*.gif
+
+# ignore venv
+venv/
+venv/*
+./venv/
+*.dylib
+
+# ipython artifacts
+*.ipynb_checkpoints
