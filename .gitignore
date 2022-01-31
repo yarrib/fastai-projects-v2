@@ -4,6 +4,7 @@
 
 # ignore any vscode files
 *.__pycache__
+*.DS_Store
 
 # ignore any compiled python files
 *.pyc
