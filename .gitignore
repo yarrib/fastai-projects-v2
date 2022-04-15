@@ -1,3 +1,5 @@
+# ignore .pkl files, pulling them from gdrive programmatically
+*.pkl
 
 # exlude environment variables
 *.env
