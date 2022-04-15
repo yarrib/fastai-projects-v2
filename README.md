@@ -2,7 +2,7 @@
 
 The contents of this repo include 3 notebooks that train a fish classifier on images of various US and India fish obtained through the bing image api (from Azure)
 
-[Open App on Heroku](https://fish-clf-innov-95.herokuapp.com)
+<a href="https://fish-clf-innov-95.herokuapp.com/" target="_blank">Open App on Heroku</a>
 
 
 Its also on binder here:
