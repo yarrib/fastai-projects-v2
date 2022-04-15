@@ -10,10 +10,10 @@
 *.pyc
 
 # don't upload image files
-*.jpg
-*.png
-*.jpeg
-*.JPG
+#*.jpg
+#*.png
+#*.jpeg
+#*.JPG
 *.tif
 *.tiff
 *.gif
