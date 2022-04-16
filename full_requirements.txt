@@ -114,7 +114,7 @@ thinc==8.0.13
 threadpoolctl==3.0.0
 tinycss2==1.1.1
 tomli==2.0.0
-torch==1.10.2
+torch==1.10.2+cpu
 torchvision==0.11.3
 tornado==6.1
 tqdm==4.62.3
