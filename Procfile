@@ -1,1 +1,1 @@
-web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser --enable_nbextensions=True notebookwebapp.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True notebookwebapp.ipynb
