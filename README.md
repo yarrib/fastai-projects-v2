@@ -2,6 +2,7 @@
 
 The contents of this repo include 3 notebooks that train a fish classifier on images of various US and India fish obtained through the bing image api (from Azure)
 
+Please ignore the Procfile, the runtime.txt, and requirements_heroku.txt files. Those are files used when the heroku deployment was being tested (a failure!).
 
 ## Instructions to run on your machine (windows, though running on linux/macos are pretty similar)
 
